@@ -1,7 +1,0 @@
-falas_interacao = [
-	"Meu velho armário...",
-	"O importante é que ainda dá conta do recado.",
-	"Há algo entalhado na base... mas não consigo ler."
-];
-
-direcao_exigida = "baixo"; //Onde o player deve estar
