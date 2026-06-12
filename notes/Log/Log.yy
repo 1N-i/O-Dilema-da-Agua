@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"Log",
+  "name":"Log",
+  "parent":{
+    "name":"Outros",
+    "path":"folders/Outros.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

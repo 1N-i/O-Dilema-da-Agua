@@ -1,0 +1,115 @@
+02/06/26 - 23:00 - @all
+Reunião para decidir o que fazer;
+
+03/06/26 - 10:30 - mYSELF
+Projeto criado;
+Movimentação básica com mudança de sprite ao se movimentar;
+
+03/06/26 - Rubens
+Movimentação básica dos inimigos
+Spawn aleatório de inimigos
+
+05/06/26 - 10:00 - mYSELF
+Criei os rascunhos do projeto no papel;
+
+05/06/26 - 17:10 - mYSELF
+Rascunhos das room criados;
+Colisão com paredes e objetos colocado;
+Melhorada movimentação dos inimigos;
+
+04/06/26 - Rubens
+sprites do jogador alterados;
+Boss criado, ele sobrevoa o jogador e ao ficar em cima do mesmo, cai no chão para atacar;
+
+05/06/26 - Rubens
+tamanho do boss aumentado (pode ser que mude depois);
+sprites idealizando como vai ser o ataque, deixando uma janela de tempo pro jogador desviar;
+
+05/06/26 - 01:25 - mYSELF
+Ajeitei os sprite para se espelhar ao olhar pra esquerda;
+E criei este Log;
+
+05/06/26 - 06:00 - Hbattatinha
+Mudei o personagem e mexi nas animções do personagem principal;
+
+05/06/26 - 19:10 - mYSELF
+Mecânica de balão de fala pro personagem. E de interação com objetos;
+Ainda precisa adicionar a possibilidade de usar palavras com acento;
+
+05/06/26 - 20:55 - Rubens
+Sistema de vida dos inimigos criado;
+"Espada" criada, usando K se usa ela, e a mesma causa dano nos inimigos se colidirem;
+ao levar dano, inimigos ficam invencíveis por certo tempo e piscam;
+O boss agora se move mais rápido e tem uma animação de recuperação;
+
+06/06/26 - 15:15 - mYSELF
+Corrigido erro da fala aparecendo em toda sala;
+Mudança no ponto de origem de certos obj_;
+Aumento na sala do roguelike;
+Boss agr aparece após alguns inimigos serem derrotados;
+Camêra na sala do roguelike;
+
+06/06/26 - 17:05 - Rubens
+Colisão da espada nos inimigos melhorada;
+Sistema de vida do player criado;
+Inimigos agora causam dano;
+ao levar dano o player fica invencível por certo tempo e pisca;
+A espada agora ataca com o botão esquerdo do mouse para todas as direções;
+Leve mudança no ponto de origem do boss e em sua profundidade (pra dar a impressão dele ter sombra);
+
+06/06/26 - 21:05 - mYSELF
+Barra de vida com efeito de barra "fantasma";
+
+07/06/26 - 02:46 - Rubens
+O boss agora possui sistema de vida;
+A colisão do boss com o player foi criada;
+O tamanho da área de onde o boss vê o player e ataca aumentou (pode mudar depois);
+O boss agora causa dano;
+Ao levar dano o boss fica invencível por certo tempo e pisca;
+A colisão foi ajustada para o player só poder atacar o boss (e vice-versa) no frame correto;
+
+07/06/26 - 11:00 - mYSELF
+Adicionado créditos e espaço para o menu;
+Objetos interativeis vão mostrar "[E]" para mostrar que é possível interagir com eles
+e se baseiam na direção do player em relação ao obj_ ao invés de apenas a distância;
+
+07/06/26 - 18:30 - mYSELF
+Adicionado sistema de inventário para a sala de puzzle;
+Adicionado condições para o ataque não ocorrer em outras salas e apenas se mover ao fim de uma fala;
+Criação do obj_interagivel que pode ser personalizado de qualquer maneira;
+Criação do obj_item_coletavel que pode ser personalizado de qualquer maneira;
+
+07/06/26 - 23:34 - Rubens
+O jogo agora possui um menu;
+O menu funciona usando o mouse ou teclas;
+
+08/06/26 - 06:41 - BurnoutMan
+Sistema de luz por interruptor;
+tela cheia -F11;
+PAUSE- ESC;
+
+09/06/26 - 11:00 - mYSELF
+Correção tamanho das salas; (Cozinha e quarto inicial);
+Adicionado interação com os objetos das rooms; (Cozinha e quarto inicial);
+
+09/06/26 - 13:46 - Rubens
+O jogo agora tem música;
+Ao trocar de sala tem uma transição da tela escurecer;
+
+09/06/26 - 15:00 - mYSELF
+Correção tamanho das salas; (O que faltava);
+Adicionado interação com os objetos das rooms; (O que faltava);
+Correção do tamanho das rooms e colisões e interações dos obj_ (DNV);
+Muitas pequenas correções de bugs;
+
+09/06/26 - 19:00 - Rubens
+O texto continua normal mesmo se a sala estiver escura;
+Balanceamento no Boss;
+Leves correções de erros ortográficos nos monólogos;
+Os interruptores agora funcionam;
+
+10/06/26 - 10:45 - mYSELF
+Correção dos créditos (DNV);
+Adicionei a porta com senha;
+Correção de pequeno bugs;
+Maneira de finalizar o jogo;

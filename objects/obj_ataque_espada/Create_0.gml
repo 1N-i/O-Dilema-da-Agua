@@ -1,0 +1,1 @@
+inimigos_atingidos = ds_list_create();

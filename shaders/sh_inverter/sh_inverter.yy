@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_inverter",
+  "name":"sh_inverter",
+  "parent":{
+    "name":"Outros",
+    "path":"folders/Outros.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
