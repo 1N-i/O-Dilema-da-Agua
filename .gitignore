@@ -1,0 +1,6 @@
+# Arquivos de backup e cache do GameMaker
+*.yyz
+*.yyp.backup
+*.yyp.converted
+*.zip
+.vs/
